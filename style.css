@@ -1,4 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Butcherman&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Butcherman&family=Kablammo&display=swap');
+.hasColor {
+  font-family: 'Barriecito', fantasy;
+}
 html {
   height: 100%;
   width: 100%;
+}
+body {
+  background-color: lightblue;
+}
+p{
+  color:white;
+  font-size: 20px;
+}
+.list li{
+  font-family: 'Kablammo', fantasy;
 }
